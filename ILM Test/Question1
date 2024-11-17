@@ -1,0 +1,10 @@
+Please explain Big-O notation in simple terms.
+
+Big-O notation is used in computer science to simplify the description of the running time of a program.
+
+The running time of a program is how many steps a computer has to take to execute the program.
+
+There are other asymptotic notations, but Big-O notation describes the upper-bound of the program.
+In other words, the program will run no faster than x (if the big-O of a program is O(x)). 
+
+

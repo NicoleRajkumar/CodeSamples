@@ -1,0 +1,5 @@
+What are the most important things to look for when reviewing another team member's code?
+
+The most important thing is if the code does what it is intended for, but also in an efficient way. It shouldn't be more complex than it needs to be. It also shouldn't break other code in the codebase, everything should run as smoothly before the addition of the new code.
+
+I think secondary, but still as important, it should be readable with useful comments for any future changes and for readability.

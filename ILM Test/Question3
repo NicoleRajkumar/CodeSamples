@@ -1,0 +1,11 @@
+Describe a recent interaction with someone who was non-technical. What did you need to communicate and how did you do it?
+
+I picked up a JIRA ticket by an artist for Maya. The ticket had minimal information on it and the problem wasn't very clear.
+I initially messaged them on Slack to clarify and get more information. I ended up calling them on Zoom and asking them to share the screen and show me how to reproduce the problem. 
+Once on Zoom, it was easier to understand as I was unfamiliar with their workflow and Maya preferences and they were able to show me visually the issue, which they had a hard time describing in technical terms.
+
+Once I was able to reproduce the problem (which specifically was an issue with keyed frames and the graph editor), I found the solution. Specifically, the usd scene that got rebuilt between animation and lighting translated some setup frames(before 0 on the timeline) to -999 on the graph editor. The solution was to just delete the uneccessary frames that were out of scope.
+
+I had another Zoom call with the artist and I explained what exactly happened. I explained the issue to them while sharing my screen (showing the frame values in the usd file before and after the scene got rebuilt as well as the graph editor in the animation shot) and told them what the solution was to this specific problem to make sure it doesn't happen again. The artist appreciated my explanation as well as the visualization.
+
+I think with COVID and working remotely, visualization can be lacking as you can't just walk over to an artist's desk. It also makes it harded to communicate, especially between technical and non-technical.
