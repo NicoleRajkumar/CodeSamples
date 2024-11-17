@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1401379290
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 2083-gold-foil_1024
+      Dependencies: {}
+    Info_1:
+      Name: 2083-gold-foil_256
+      Dependencies: {}
+    Info_2:
+      Name: 2083-gold-foil_512
+      Dependencies: {}

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3891419560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c71c9f474cb16232f79fb30139a3b5af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/2083-gold-foil_256.png
+Dependencies: []

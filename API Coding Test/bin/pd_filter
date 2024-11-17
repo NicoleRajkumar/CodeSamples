@@ -1,0 +1,3 @@
+#!/usr/bin/python
+from api.personaldatacmd import filter
+filter()
